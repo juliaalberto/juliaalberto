@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! 👋
 
 <!--
 **juliaalberto/juliaalberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! My name is Julia Alberto and I am an aspriing Software Engineer.
+My name is Julia Alberto and I am an aspiring Software Engineer!
