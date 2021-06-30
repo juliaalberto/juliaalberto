@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 My name is Julia Alberto and I am an aspiring Software Engineer!
+Fun fact: I like to take nature walks!
+
+Reach me here: juila.elyssa.alberto@gmail.com
