@@ -21,3 +21,6 @@ Languages and Techologies
 - HTML
 - Python
 - ReactJS
+
+Animation created by © Julia Alberto
+
