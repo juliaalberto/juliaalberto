@@ -1,6 +1,9 @@
 ### Hello World! 👋
 
- <img align="right" alt="GIF" src="IMG_0109.GIF" width="400" height="400" />
+ <figure align = right>
+  <img align = right alt="GIF" src="IMG_0109.GIF" width="400" height="400">
+  <figcaption>Animation created by © Julia Alberto </figcaption>
+</figure> 
 
 My name is Julia Alberto and I am an aspiring Software Engineer!
 - 💻 Website : Work in Progess
@@ -21,6 +24,3 @@ Languages and Techologies
 - HTML
 - Python
 - ReactJS
-
-Animation created by © Julia Alberto
-
