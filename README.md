@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-<img align = right alt="GIF" src="IMG_0109.GIF" width="500" height="500">
+<img align = right alt="GIF" src="IMG_0109.GIF" width="450" height="450">
 
 My name is Julia Alberto and I am an aspiring Software Engineer!
 - 💻 Website : Work in Progess
