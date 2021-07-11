@@ -1,8 +1,8 @@
 ### Hello World! 👋
 
-<img align = right alt="image" src="undraw_developer_activity_bv83.svg" width="400" height="350">
+<img align = right alt="image" src="Github image.png" width="500" height="300">
 
-My name is Julia Alberto and I am an aspiring Software Engineer!
+My name is Julia Alberto and I am an aspiring Full-Stack Developer!
 - 💻 Website : Work in Progess
 - 🔗 LinkedIn : <a href = "https://www.linkedin.com/in/julia-alberto-0804/"> julia-alberto-0804 </a>
 - 💌 Resume : <a href = "Julia Alberto Resume Current.pdf"> Julia Alberto </a>
