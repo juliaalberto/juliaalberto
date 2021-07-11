@@ -1,4 +1,4 @@
-### Hello World! 👋
+### <h2> Hello World! 👋 </h2>
 
 <img align = right alt="image" src="Github image.png" width="500" height="300">
 
