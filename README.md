@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-<img align = right alt="image" src="undraw_developer_activity_bv83.svg" width="500" height="450">
+<img align = right alt="image" src="undraw_developer_activity_bv83.svg" width="400" height="350">
 
 My name is Julia Alberto and I am an aspiring Software Engineer!
 - 💻 Website : Work in Progess
