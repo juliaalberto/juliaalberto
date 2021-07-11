@@ -22,4 +22,4 @@ C++ | C | CSS | HTML | PYTHON
 
 <a href="https://icons8.com">Icons created by Icons8</a>
 
-<a href="https://undraw.co/"> Image created by unDraw; modified by © Julia Alberto </a>
+<a href="https://undraw.co/"> Image created by unDraw | Modified by © Julia Alberto </a>
