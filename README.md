@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-<img align = right alt="image" src="Github image.png" width="500" height="300">
+<img align = right alt="image" src="Github image.png" width=55% height=auto>
 
 My name is Julia Alberto and I am an aspiring Full-Stack Developer!
 
