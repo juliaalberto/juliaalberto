@@ -6,7 +6,7 @@ My name is Julia Alberto and I am an aspiring Full-Stack Developer!
 
 - 💻 Website : Work in Progess
 - 🔗 LinkedIn : <a href = "https://www.linkedin.com/in/julia-alberto-0804/"> julia-alberto-0804 </a>
-- 💌 Resume : <a href = "Julia Alberto Resume Current.pdf"> Julia Alberto </a>
+- 💌 Resume : <a href = "https://github.com/juliaalberto/Current-Resume"> Julia Elyssa Alberto </a>
 
 📫 Lets Connect! : <a href = "mailto: julia.elyssa.alberto@gmail.com"> julia.elyssa.alberto@gmail.com </a>
 
